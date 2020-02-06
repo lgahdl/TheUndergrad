@@ -7,4 +7,4 @@ FIRST COMMIT 06/Feb/2020:
   removed fluid transitions (uncompatible)
 
 Missing:
-  React-native-vector-icons adaptation for new app build;
+  React-native-vector-icons adaptation for new app build(probably a linking wrong property);
